@@ -1,0 +1,28 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    background: #1C2B35;
+
+}
+
+.nav-container img {
+    margin-left: 80px;
+}
+
+.nav-info a {
+    text-decoration: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #FFFFFF;
+    margin: 0px 10px;
+}
+
+.nav-info {
+    margin-right: 80px;
+}
