@@ -1,0 +1,42 @@
+.review-container img {
+    width: 80px;
+    padding: 8px;
+
+}
+
+.review-container {
+    display: flex;
+    border: 1px solid lightgray;
+    margin: 20px 200px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.info-container {
+    display: flex;
+    padding: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.info-details p {
+    margin: 0px;
+}
+
+.delete-button {
+    display: flex;
+    align-items: center;
+}
+
+.delete-button button {
+    border: 0;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+
+}
+
+.delete-button button:hover {
+    background-color: orange;
+    cursor: pointer;
+}
