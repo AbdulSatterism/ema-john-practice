@@ -1,0 +1,87 @@
+.signup-container {
+    width: 500px;
+    height: 700px;
+    background: rgb(255, 255, 240);
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 50px auto;
+    padding: 45px;
+
+}
+
+.sign-header {
+    width: 120px;
+    height: 42px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    margin: 38px auto;
+    margin-top: 0px;
+}
+
+.form-control {
+    width: 415px;
+    height: 84px;
+    margin-bottom: 20px;
+}
+
+.form-control input {
+    box-sizing: border-box;
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #2A414F;
+}
+
+.form-control label {
+    width: 41px;
+    height: 20px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+    padding: 10px;
+}
+
+
+.signup-btn {
+    width: 415px;
+    height: 55px;
+    margin-top: 20px;
+    background: rgba(255, 153, 0, 0.3);
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
+
+.signup-btn:hover {
+    background: rgba(255, 153, 0, 0.6);
+}
+
+.login-link {
+    font-size: 14px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.link {
+    color: #FF9900;
+    margin-left: 5px;
+    font-weight: bold;
+}

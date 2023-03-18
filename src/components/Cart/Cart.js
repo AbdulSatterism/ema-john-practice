@@ -24,7 +24,7 @@ const Cart = ({ cart, clearCart, children }) => {
             <p>Tax: ${tax}</p>
             <h5>Grand Total : ${grandTotal}</h5>
 
-            <button onClick={clearCart}>Clear cart</button>
+            {/* <button onClick={clearCart}>Clear cart</button> */}
             <br />
             {children}
         </div>
